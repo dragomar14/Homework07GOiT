@@ -12,7 +12,7 @@ setup(
                  "License :: OSI Approved :: MIT License",
                  "Operating System :: OS Independent"],
     packages=find_namespace_packages(),
-    install_requires=['shutil', 'pathlib', 'os', 're', 'sys'],
+    #install_requires=['shutil', 'pathlib', 'os', 're', 'sys'],
     entry_points={
         'console_scripts': [
             'clean-folder = clean_folder.clean:main',
