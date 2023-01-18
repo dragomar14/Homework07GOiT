@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cleanup-dmytro-m
+Version: 0.0.1
+Summary: cleanup script which built with python-packages and console script.
+Home-page: https://github.com/dragomar14/Homework07GOiT
+Author: Dmytro Marchenko
+Author-email: dragomar14@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

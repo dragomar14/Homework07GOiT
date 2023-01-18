@@ -1,0 +1,9 @@
+setup.py
+clean_folder/__init__.py
+clean_folder/clean.py
+cleanup_dmytro_m.egg-info/PKG-INFO
+cleanup_dmytro_m.egg-info/SOURCES.txt
+cleanup_dmytro_m.egg-info/dependency_links.txt
+cleanup_dmytro_m.egg-info/entry_points.txt
+cleanup_dmytro_m.egg-info/requires.txt
+cleanup_dmytro_m.egg-info/top_level.txt
